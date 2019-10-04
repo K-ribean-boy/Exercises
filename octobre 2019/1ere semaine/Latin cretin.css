@@ -1,0 +1,102 @@
+body {
+  margin: 0 auto;
+  width: 960px;
+  background: #f8f8fa;
+  font-family: cursive;
+}
+
+h1 {
+  text-align: center;
+  padding: 0.6em;
+  color:black;
+  font-size: 2.8em;
+}
+
+h3{
+  color: #fff;
+  margin: 0;
+}
+
+.contenant {
+  background: white;
+  padding: 1em;
+  margin: 0.4em;
+  display: flex;
+}
+
+.textContenant {
+  padding: 1em;
+  background: #f2f2f2;
+}
+.textContenant p {
+  margin: 0;
+  padding: 0.8em;
+}
+
+.imgContenant {
+  display: block;
+  padding: 0.6em;
+}
+.imgContenant img{
+  float: right;
+  clear: both;
+  padding: 0.6em;
+}
+
+
+
+
+
+
+
+
+
+.conteneur {
+  background: white;
+  padding: 1em;
+  margin: 0.4em;
+  display: flex;
+}
+
+.textContent {
+  padding: 1em;
+  background: #f2f2f2;
+}
+.textContent p {
+  margin: 0;
+  padding: 0.8em;
+}
+
+.imgContent {
+  display: block;
+  padding: 0.6em;
+}
+.imgContent img{
+  float: left;
+  clear: both;
+  padding: 0.6em;
+}
+
+
+.contenu {
+  background: white;
+  padding: 1em;
+  margin: 0.4em;
+  display: flex;
+}
+
+.textContenu {
+  padding: 1em;
+  background: #f2f2f2;
+}
+.textContenu p {
+  margin: 0;
+  padding: 0.8em;
+}
+.milieu{
+  display: flex;
+}
+
+
+
+

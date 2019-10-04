@@ -1,0 +1,32 @@
+
+
+body{
+    background: #669fee;
+    display: block;
+}
+nav{
+    margin-top:150px;
+    display: block;
+    background: #4a7abc;
+    height:100px;
+}
+/**
+section{
+    display: block;
+    background: #08618d;
+    height:500px;
+}**/
+aside{
+    float: right;
+    display: block;
+    background: #4b5f7a;
+    height:700px;
+    width: 500px;
+}
+
+footer{
+  margin-top:600px;
+  display: block;
+  background: #2d4463;
+  height: 100px;
+}
